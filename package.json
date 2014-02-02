@@ -1,0 +1,28 @@
+{
+  "name": "motm-koa",
+  "version": "0.0.0",
+  "description": "riversidejs module of the month demo for koa a next gen web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacoblwe20/motm-koa.git"
+  },
+  "keywords": [
+    "koa",
+    "generators",
+    "web",
+    "middleware"
+  ],
+  "author": "jacob lowe < http://jcbl.ws >",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacoblwe20/motm-koa/issues"
+  },
+  "homepage": "https://github.com/jacoblwe20/motm-koa",
+  "dependencies": {
+    "koa": "~0.3.0"
+  }
+}
