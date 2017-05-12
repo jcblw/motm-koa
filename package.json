@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/jacoblwe20/motm-koa",
   "dependencies": {
-    "koa": "~0.3.0"
+    "koa": "~2.2.0"
   }
 }
