@@ -1,5 +1,7 @@
 ## Module of the Month Koa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/motm-koa.svg)](https://greenkeeper.io/)
+
 Koa is a next generation web frameworks using ES6 generators, to use it you will need a node version of `0.11.*`. If you have [`nvm`](https://github.com/creationix/nvm) it is a simple as.
 
 ```
